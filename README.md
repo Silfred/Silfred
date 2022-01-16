@@ -10,7 +10,7 @@ Pragma Solidity 0.0.01;
       <br />
       string memory Languages = "Solidity, C#, HTML and still learning Cadence";
       <br />
-      bool AreYouHandsome = "Both froom the in and outside";
+      bool AreYouHandsome = "Both from the in and outside";
       <br />
     }
     <br /> 
